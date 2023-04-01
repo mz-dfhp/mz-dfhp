@@ -4,10 +4,10 @@
 * 喜欢专研源码 对线源码
 
 ### 2023年目标
-* 手写[react18](https://github.com/mz-dfhp/write-react)
+* [手写react18](https://github.com/mz-dfhp/write-react)
 * [react-组件库](https://github.com/mz-dfhp/react18-ui)
-* 手写[vue3](https://github.com/mz-dfhp/write-vue3)
-* 手写[pinia](https://github.com/mz-dfhp/write-pinia)
+* [手写vue3](https://github.com/mz-dfhp/write-vue3)
+* [手写pinia](https://github.com/mz-dfhp/write-pinia)
 * [vue3-组件库](https://github.com/mz-dfhp/mz-ui)
 * 学习threeJs
 * 进攻后端
