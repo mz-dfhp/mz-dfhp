@@ -1,7 +1,6 @@
-### 我是 mz
 * 一名前端攻城狮 热爱写代码
 * React 与 Vue 爱好者
-* 喜欢专研源码 对线源码
+* 喜欢专研源码 造轮子
 
 ### 2023年目标
 * [手写react18](https://github.com/mz-dfhp/write-react)
